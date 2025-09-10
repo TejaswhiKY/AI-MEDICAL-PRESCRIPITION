@@ -1,6 +1,6 @@
 Overview
 
-This repository stays synchronized with the deployed AI Medical Prescription Verification app by Ratan. Any modifications made to the deployed project will automatically be committed and pushed here.
+This repository stays synchronized with the deployed AI Medical Prescription Verification app by Tejaswhi. Any modifications made to the deployed project will automatically be committed and pushed here.
 
 Deployment
 
