@@ -5,7 +5,7 @@ This repository stays synchronized with the deployed AI Medical Prescription Ver
 Deployment
 
 Your live project is accessible at:
-AI Medical Prescription Verification – Ratan
+AI Medical Prescription Verification – Tejaswhi
 
 Build Your App
 
@@ -17,4 +17,4 @@ Build and update your application.
 
 Deploy your chats and changes directly.
 
-All updates are automatically mirrored in this GitHub repository maintained by Ratan.
+All updates are automatically mirrored in this GitHub repository maintained by Tejaswhi.
